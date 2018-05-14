@@ -3,7 +3,7 @@
  * login-register modal
  * Autor: Creative Tim
  * Web-autor: creative.tim
- * Web script: http://creative-tim.com
+ * Web script: https://creative-tim.com
  * 
  */
 function showRegisterForm(){
